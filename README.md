@@ -28,5 +28,4 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
-
-"test 1 of automatic start"
+test 2
